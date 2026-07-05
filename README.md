@@ -50,13 +50,9 @@ Although designed for manhwa creators, the cutter can also be used for:
 > Screenshots and examples of the cutter will be added here in the
 > future.
 
-You can also include:
-
--   Interface screenshots
--   Step-by-step guides
--   Before/after examples
--   Feature demonstrations
+-   YOLOv8 AI Automatic Pannel Detection [2 Months later?]
 
 ------------------------------------------------------------------------
 
 Made to speed up repetitive image cutting and simplify content creation.
+
